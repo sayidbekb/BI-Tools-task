@@ -93,6 +93,8 @@ Example:
 
 ![](screenshots/tab3.png)
 
+### Role level security, there's region west_where only that region is visible & segment_corporate only can see corporate data!
+![](screenshots/rls.png)
 
 ## Tools & Technologies
 
